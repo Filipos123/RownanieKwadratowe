@@ -1,0 +1,14 @@
+C:\Users\micha\Desktop\filip\kwadratowe\kwadratowe\obj\Debug\netcoreapp3.1\kwadratowe.csproj.AssemblyReference.cache
+C:\Users\micha\Desktop\filip\kwadratowe\kwadratowe\obj\Debug\netcoreapp3.1\kwadratowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Desktop\filip\kwadratowe\kwadratowe\obj\Debug\netcoreapp3.1\kwadratowe.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\filip\kwadratowe\kwadratowe\obj\Debug\netcoreapp3.1\kwadratowe.AssemblyInfo.cs
+C:\Users\micha\Desktop\filip\kwadratowe\kwadratowe\obj\Debug\netcoreapp3.1\kwadratowe.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\filip\kwadratowe\kwadratowe\bin\Debug\netcoreapp3.1\kwadratowe.exe
+C:\Users\micha\Desktop\filip\kwadratowe\kwadratowe\bin\Debug\netcoreapp3.1\kwadratowe.deps.json
+C:\Users\micha\Desktop\filip\kwadratowe\kwadratowe\bin\Debug\netcoreapp3.1\kwadratowe.runtimeconfig.json
+C:\Users\micha\Desktop\filip\kwadratowe\kwadratowe\bin\Debug\netcoreapp3.1\kwadratowe.runtimeconfig.dev.json
+C:\Users\micha\Desktop\filip\kwadratowe\kwadratowe\bin\Debug\netcoreapp3.1\kwadratowe.dll
+C:\Users\micha\Desktop\filip\kwadratowe\kwadratowe\bin\Debug\netcoreapp3.1\kwadratowe.pdb
+C:\Users\micha\Desktop\filip\kwadratowe\kwadratowe\obj\Debug\netcoreapp3.1\kwadratowe.dll
+C:\Users\micha\Desktop\filip\kwadratowe\kwadratowe\obj\Debug\netcoreapp3.1\kwadratowe.pdb
+C:\Users\micha\Desktop\filip\kwadratowe\kwadratowe\obj\Debug\netcoreapp3.1\kwadratowe.genruntimeconfig.cache
